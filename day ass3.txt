@@ -1,0 +1,9 @@
+var resume = {
+ "Name" : "DINESHKUMAR";
+ "Age" : "23"; 
+ "Qualification" : "B.E Mechanical Engineering";
+"Y.O.P" :"2020"
+ "Skills" :"Full stack web developer";
+ "Languages" :"Tamil","English";
+ "Interests" : "Learning somethings new";
+}
